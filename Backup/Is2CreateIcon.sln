@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is2CreateIcon", "Is2CreateIcon.csproj", "{CEB57E5F-C1AE-49A4-956D-6F6F9B43DF17}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CEB57E5F-C1AE-49A4-956D-6F6F9B43DF17}.Debug.ActiveCfg = Debug|.NET
+		{CEB57E5F-C1AE-49A4-956D-6F6F9B43DF17}.Debug.Build.0 = Debug|.NET
+		{CEB57E5F-C1AE-49A4-956D-6F6F9B43DF17}.Release.ActiveCfg = Release|.NET
+		{CEB57E5F-C1AE-49A4-956D-6F6F9B43DF17}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
